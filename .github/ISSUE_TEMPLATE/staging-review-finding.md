@@ -29,7 +29,11 @@ _Need help? [How to read staging review tickets](https://depo-platform-documenta
 
 ### Link, screenshot or steps to recreate
 
+<details><summary>Toggle details</summary>
+
 `link/screenshot/steps to recreate`
+
+</details>
 
 ## Recommended action
 
