@@ -1,6 +1,6 @@
 ---
 name: PO Sync touchpoint
-description: For OCTO and VES teams only
+about: For OCTO and VES teams only
 title: "PO Sync  (Required - OCTO and VES teams only)"
 labels: CC-Dashboard, collab-cycle-feedback, po-sync 
 assignees: ''
