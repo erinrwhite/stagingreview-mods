@@ -1,3 +1,12 @@
+---
+name: Staging Review touchpoint
+about: For OCTO and VES teams only
+title: "Staging Review for [Product name]"
+labels: CC-Dashboard, collab-cycle-feedback
+assignees: ''
+
+---
+
 ### Staging Review (Required)
 <details>
   <summary>Toggle Staging Review</summary>
