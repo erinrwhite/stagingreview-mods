@@ -1,3 +1,12 @@
+---
+name: Architecture Intent touchpoint
+about: For OCTO and VES teams only
+title: "Architecture Intent"
+labels: CC-Dashboard, collab-cycle-feedback, po-sync 
+assignees: ''
+
+---
+
 ### Architecture Intent (Required)
 <details>
   <summary>Toggle Architecture Intent instructions</summary>
