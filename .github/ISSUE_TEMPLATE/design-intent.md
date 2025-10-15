@@ -1,3 +1,11 @@
+---
+name: Design Intent touchpoint
+about: For feedback about your product's flow
+title: "Design Intent for [Product name]"
+labels: CC-Dashboard, collab-cycle-feedback, po-sync 
+assignees: ''
+
+---
 ### Design Intent
 <details>
   <summary>Toggle Design Intent instructions</summary>
